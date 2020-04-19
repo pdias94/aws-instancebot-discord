@@ -1,0 +1,19 @@
+{
+    "name": "aws-instancebot-discord",
+    "version": "1.0.0",
+    "description": "Bot to start and stop AWS EC2 instances",
+    "main": "bot.js",
+    "author": "FuckingBaker",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "dependencies": {
+        "aws-sdk": "^2.649.0",
+        "discord.js": "^12.1.1",
+        "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
