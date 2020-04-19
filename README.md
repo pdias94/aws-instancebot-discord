@@ -1,5 +1,5 @@
 
-# aws-instanceBot-discord
+# aws-instancebot-discord
 A bot for start, stop and get current status with IP for AWS EC2 Instances on discord app (:
 
 ## How it works
